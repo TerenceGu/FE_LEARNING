@@ -1,0 +1,96 @@
+#container{
+    background-color: gainsboro;
+}
+
+#mainHeader{
+    background-color: black;
+    color:white;
+}
+
+#mainHeader h1{
+    float: left;
+    margin:10px 0 0 0;
+}
+
+#mainHeader ul{
+    float:right;
+}
+
+#mainHeader ul li{
+    float:left;
+    margin-left:25px;
+    color:red;
+}
+
+#mainHeader a{
+    text-decoration: none;
+}
+
+#mainHeader a:link{
+    color:white;
+}
+
+#mainHeader a:visited{
+    color:gainsboro;
+}
+
+#mainHeader:after{
+    content: "";
+    display: block;
+    clear:both;
+}
+
+.article{
+    background-color:white;
+    margin:25px;
+    padding:25px;
+    border:1px solid darkgray;
+    box-shadow:2px 2px grey ;
+    word-break: break-all;
+}
+
+.article h3{
+    color:grey;
+}
+
+.authorInfo{
+    color:grey;
+    font-size:0.8rem;
+}
+
+#list1{
+    list-style-type: none;
+}
+
+.article>img{
+    display:block;
+}
+
+#table1{
+    border:1px solid grey;
+    border-collapse: collapse;
+    width:100%;
+
+}
+
+#table1 tr:first-child{
+    background-color: black;
+    color:white;
+}
+
+#table1 tr:last-child{
+    background-color: darkgrey;
+    font-weight: bold;
+}
+
+#table1 td{
+    border:1px solid gainsboro;
+}
+
+#lastHeader{
+    border-left: 0.2rem solid gainsboro;
+}
+
+#form1{
+    text-align: center;
+}
