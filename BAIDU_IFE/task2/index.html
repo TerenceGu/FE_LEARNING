@@ -114,34 +114,47 @@
     </div>
 
     <div class="article">
-
-            <h2 id="lastHeader">Header</h2>
-        <div id="form1">
-            <span>Please enter:</span><input type="text" placeholder="please enter"/><br/>
-            <span class="hint">some hint</span><br/>
-            <span>Please enter:</span><input type="password" placeholder="please enter"/><br/>
-            <span>Again:</span><input type="password" placeholder="please enter"/><br/>
-            <span class="hint">some hint</span><br/>
-            sex:<input type="radio" name="sex" id="male"/> <label for="male">male</label> <input type="radio" name="sex"
+        <h2 id="lastHeader">Header</h2>
+        <div id="lastContainer">
+            <div id="form1">
+                <span>Please enter: </span><br/><br/>
+                <span>Please enter: </span><br/>
+                <span>Again: </span><br/><br/>
+                <span>sex: </span><br/>
+                <label for="city">city: </label><br/>
+                <span>hobbies: </span><br/>
+                <label>describe: </label><br/>
+            </div>
+            <div id="form2">
+                <input type="text" placeholder="please enter"/><br/>
+                <span class="hint">some hint</span><br/>
+                <input type="password" placeholder="please enter"/><br/>
+                <input type="password" placeholder="please enter"/><br/>
+                <span class="hint">some hint</span><br/>
+                <input type="radio" name="sex" id="male"/> <label for="male">male</label> <input type="radio" name="sex"
                                                                                                  id="female"/> <label
-                for="female">female</label><br />
-            <label for="city">city:</label>
-            <select id="city">
-                <option value="CityA">CityA</option>
-                <option value="CityB">CityB</option>
-                <option value="CityC">CityC</option>
-                <option value="CityD">CityD</option>
-            </select><br />
-            hobbies:<input type="checkbox" name="hobbies" id="hobby1"/><label for="hobby1">hobby1</label>
-            <input type="checkbox" name="hobbies" id="hobby2"/><label for="hobby2">hobby2</label>
-            <input type="checkbox" name="hobbies" id="hobby3"/><label for="hobby3">hobby3</label><br />
-            <label>describe</label><textarea placeholder="....."></textarea><br />
-            <input type="submit" value="submit"/>
+                    for="female">female</label><br/>
+
+                <select id="city">
+                    <option value="CityA">CityA</option>
+                    <option value="CityB">CityB</option>
+                    <option value="CityC">CityC</option>
+                    <option value="CityD">CityD</option>
+                </select><br/>
+                <input type="checkbox" name="hobbies" id="hobby1"/><label for="hobby1">hobby1</label>
+                <input type="checkbox" name="hobbies" id="hobby2"/><label for="hobby2">hobby2</label>
+                <input type="checkbox" name="hobbies" id="hobby3"/><label for="hobby3">hobby3</label><br/>
+                <textarea placeholder="....."></textarea><br/>
+            </div>
+            <input id="submit" type="submit" value="submit"/>
         </div>
+
+
+
+</div>
+    <div id="rights">
+        <span>all rights reserved</span>
     </div>
-</div>
-<div>
-<span>all rights reserved</span>
-</div>
+    </div>
 </body>
 </html>
