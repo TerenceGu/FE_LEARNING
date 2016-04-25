@@ -1,134 +1,134 @@
-#container{
+#container {
     background-color: gainsboro;
 }
 
-#mainHeader{
+#mainHeader {
     background-color: black;
-    color:white;
+    color: white;
 }
 
-#mainHeader h1{
+#mainHeader h1 {
     float: left;
-    margin:0.5rem 0 0 0;
+    margin: 0.5rem 0 0 0;
 }
 
-#mainHeader ul{
-    float:right;
+#mainHeader ul {
+    float: right;
 }
 
-#mainHeader ul li{
-    float:left;
-    margin-left:2rem;
-    color:red;
+#mainHeader ul li {
+    float: left;
+    margin-left: 2rem;
+    color: red;
 }
 
-#mainHeader a{
+#mainHeader a {
     text-decoration: none;
 }
 
-#mainHeader a:link{
-    color:white;
+#mainHeader a:link {
+    color: white;
 }
 
-#mainHeader a:visited{
-    color:gainsboro;
+#mainHeader a:visited {
+    color: gainsboro;
 }
 
-#mainHeader:after{
+#mainHeader:after {
     content: "";
     display: block;
-    clear:both;
+    clear: both;
 }
 
-.article{
-    background-color:white;
-    margin:2rem;
-    padding:2rem;
-    border:0.1rem solid darkgray;
-    box-shadow:0.2rem 0.2rem grey ;
+.article, aside {
+    background-color: white;
+    margin: 2rem;
+    padding: 2rem;
+    border: 0.1rem solid darkgray;
+    box-shadow: 0.2rem 0.2rem grey;
     word-break: break-all;
 }
 
-.article h3{
-    color:grey;
+.article h3 {
+    color: grey;
 }
 
-.authorInfo{
-    color:grey;
-    font-size:0.8rem;
+.authorInfo {
+    color: grey;
+    font-size: 0.8rem;
 }
 
-#list1{
+#list1 {
     list-style-type: none;
 }
 
-.article>img{
-    display:block;
+.article > img {
+    display: block;
 }
 
-#table1{
-    border:0.1rem solid grey;
+#table1 {
+    border: 0.1rem solid grey;
     border-collapse: collapse;
-    width:100%;
+    width: 100%;
 
 }
 
-#table1 tr:first-child{
+#table1 tr:first-child {
     background-color: black;
-    color:white;
+    color: white;
 }
 
-#table1 tr:last-child{
+#table1 tr:last-child {
     background-color: darkgrey;
     font-weight: bold;
 }
 
-#table1 td{
-    border:0.1rem solid gainsboro;
+#table1 td {
+    border: 0.1rem solid gainsboro;
 }
 
-#lastHeader{
+#lastHeader {
     border-left: 0.2rem solid gainsboro;
 }
 
-#lastContainer{
+#lastContainer {
     width: 100%;
     position: relative;
 }
 
-#lastContainer:after{
-    content:"";
+#asideContainer:after {
+    content: "";
     display: block;
-    clear:both;
+    clear: both;
 }
 
-#form1{
+#form1 {
     line-height: 2rem;
     text-align: right;
-    float:left;
-    width:30%;
+    float: left;
+    width: 30%;
 }
 
-#form2{
+#form2 {
     line-height: 2rem;
     text-align: left;
-    float:left;
-    right:0;
+    float: left;
+    right: 0;
 }
 
-#submit{
-    width:100%;
-    height:2rem;
+#submit {
+    width: 100%;
+    height: 2rem;
     background-color: dodgerblue;
-    color:white;
+    color: white;
 }
 
-#rights{
-    font-size:0.8rem;
+footer {
+    font-size: 0.8rem;
     text-align: center;
-    width:100%;
-    height:3rem;
-    line-height:3rem;
-    background-color:black;
-    color:white;
+    width: 100%;
+    height: 3rem;
+    line-height: 3rem;
+    background-color: black;
+    color: white;
 }
