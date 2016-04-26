@@ -1,0 +1,30 @@
+#grey{
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+    background-color: #ccc;
+}
+
+#yellow1{
+    position: absolute;
+    top:0;
+    left:0;
+    width:50px;
+    height:50px;
+    border-bottom-right-radius: 50px;
+    background-color: #fc0;
+}
+
+#yellow2{
+    position: absolute;
+    bottom:0;
+    right:0;
+    width:50px;
+    height:50px;
+    border-top-left-radius: 50px;
+    background-color: #fc0;
+}
