@@ -25,10 +25,18 @@
     width:200px;
     float:left;
 }
+
 #left img{
     width:80px;
     height:80px;
+    float:left;
 }
+
+#left span{
+    width:60px;
+    text-align: center;
+}
+
 #mid{
     margin-left:220px;
     margin-right:140px;
