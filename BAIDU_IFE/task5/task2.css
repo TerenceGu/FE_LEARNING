@@ -1,0 +1,172 @@
+#container {
+    background-color: gainsboro;
+}
+
+#content {
+    margin-right: 26rem;
+}
+
+aside {
+    width: 20rem;
+    float: right;
+    background-color: white;
+    margin: 2rem;
+    padding: 2rem;
+    border: 0.1rem solid darkgray;
+    box-shadow: 0.2rem 0.2rem grey;
+    word-break: break-all;
+}
+
+header {
+    background-color: black;
+    color: white;
+    width: 100%
+}
+
+header h1 {
+    float: left;
+    margin: 0.5rem 0 0 0;
+}
+
+header ul {
+    float: right;
+}
+
+header ul li {
+    float: left;
+    margin-left: 2rem;
+    color: red;
+}
+
+header a {
+    text-decoration: none;
+}
+
+header a:link {
+    color: white;
+}
+
+header a:visited {
+    color: gainsboro;
+}
+
+header:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.article {
+    background-color: white;
+    margin: 2rem;
+    padding: 2rem;
+    border: 0.1rem solid darkgray;
+    box-shadow: 0.2rem 0.2rem grey;
+    word-break: break-all;
+}
+
+.article h3 {
+    color: grey;
+}
+
+.authorInfo {
+    color: grey;
+    font-size: 0.8rem;
+}
+
+#list1 {
+    list-style-type: none;
+}
+
+.article > img {
+    display: block;
+    width: 50%;
+}
+
+#pictures:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.pic > img {
+    width: 100%;
+    height: 100%;
+
+}
+
+.pic {
+    width: 10rem;
+    float: left;
+    margin: 1rem;
+    display: inline-flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#table1 {
+    border: 0.1rem solid grey;
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+#table1 tr:first-child {
+    background-color: black;
+    color: white;
+}
+
+#table1 tr:last-child {
+    background-color: darkgrey;
+    font-weight: bold;
+}
+
+#table1 td {
+    border: 0.1rem solid gainsboro;
+}
+
+#lastHeader {
+    border-left: 0.2rem solid gainsboro;
+}
+
+#lastContainer {
+    width: 100%;
+    position: relative;
+}
+
+#asideContainer:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+#form1 {
+    line-height: 2rem;
+    text-align: right;
+    float: left;
+    width: 30%;
+}
+
+#form2 {
+    line-height: 2rem;
+    text-align: left;
+    float: left;
+    right: 0;
+}
+
+#submit {
+    width: 100%;
+    height: 2rem;
+    background-color: dodgerblue;
+    color: white;
+}
+
+footer {
+    font-size: 0.8rem;
+    text-align: center;
+    width: 100%;
+    height: 3rem;
+    line-height: 3rem;
+    background-color: black;
+    color: white;
+}
