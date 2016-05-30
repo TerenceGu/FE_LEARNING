@@ -11,3 +11,5 @@ How JavaScript Timers Work(setTimeout,setInterval) http://www.phpweblog.net/rain
 回车"（carriage return）和"换行"（line feed）的区别和来历 http://blog.csdn.net/xiaoxian8023/article/details/8448160
 
 SHEBANG http://smilejay.com/2012/03/linux_shebang/
+
+如何成为一名黑客 http://www.kerneltravel.net/jiqiao/hacker.html
