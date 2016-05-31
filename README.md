@@ -14,7 +14,8 @@ SHEBANG http://smilejay.com/2012/03/linux_shebang/
 
 如何成为一名黑客 http://www.kerneltravel.net/jiqiao/hacker.html
 
-stopPropagation, preventDefault 和 return false 的区别 http://www.neoease.com/stoppropagation-and-preventdefault-and-return-false/  
+stopPropagation, preventDefault 和 return false 的区别 http://www.neoease.com/stoppropagation-and-preventdefault-and-return-false/
+
 使用 navigator.sendBeacon() 上报数据 http://kaifage.com/notes/76/navigator-sendBeacon.html     
 
 
