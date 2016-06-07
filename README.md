@@ -16,7 +16,9 @@ SHEBANG http://smilejay.com/2012/03/linux_shebang/
 
 stopPropagation, preventDefault 和 return false 的区别 http://www.neoease.com/stoppropagation-and-preventdefault-and-return-false/
 
-使用 navigator.sendBeacon() 上报数据 http://kaifage.com/notes/76/navigator-sendBeacon.html     
+使用 navigator.sendBeacon() 上报数据 http://kaifage.com/notes/76/navigator-sendBeacon.html
+
+正则表达式 http://deerchao.net/tutorials/regex/regex.htm
 
 
 
