@@ -22,5 +22,6 @@ stopPropagation, preventDefault 和 return false 的区别 http://www.neoease.co
 
 什么是 Shadow DOM http://www.ituring.com.cn/article/177453
 
+正向代理与反向代理的区别 http://blog.csdn.net/m13666368773/article/details/8060481
    
    
