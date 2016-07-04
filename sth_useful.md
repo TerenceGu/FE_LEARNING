@@ -25,5 +25,7 @@ stopPropagation, preventDefault 和 return false 的区别 http://www.neoease.co
 正向代理与反向代理的区别 http://blog.csdn.net/m13666368773/article/details/8060481
 
 javascript中apply、call和bind的区别 http://www.cnblogs.com/cosiray/p/4512969.html
+
+Using the Console https://developer.chrome.com/devtools/docs/console
    
    
