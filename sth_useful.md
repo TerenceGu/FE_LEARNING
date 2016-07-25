@@ -27,5 +27,7 @@ stopPropagation, preventDefault 和 return false 的区别 http://www.neoease.co
 javascript中apply、call和bind的区别 http://www.cnblogs.com/cosiray/p/4512969.html
 
 Using the Console https://developer.chrome.com/devtools/docs/console
+
+正则数字验证 http://qiaolevip.iteye.com/blog/1828149
    
    
