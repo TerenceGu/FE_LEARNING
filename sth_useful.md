@@ -31,5 +31,7 @@ Using the Console https://developer.chrome.com/devtools/docs/console
 HOW TO CENTER IN CSS http://howtocenterincss.com/
 
 Centering in CSS: A Complete Guide https://css-tricks.com/centering-css-complete-guide/
+
+Flex 布局教程 http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool
    
    
