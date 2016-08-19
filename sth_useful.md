@@ -34,4 +34,4 @@ Centering in CSS: A Complete Guide https://css-tricks.com/centering-css-complete
 
 Flex 布局教程 http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool
    
-   
+传统 Ajax 已死，Fetch 永生 https://segmentfault.com/a/1190000003810652
